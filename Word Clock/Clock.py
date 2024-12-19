@@ -6,5 +6,5 @@ gpio1 = Pin(0,Pin.OUT)
 while True:
     gpio1.value(1)  # Turn on the pin
     print(f"GPIO {pin} is now ON")  # Optional: print the status
-    sleep(1)  # Wait for 1 second
+    sleep(10)  # Wait for 1 second
     gpio1.value(0)  # Turn off the pin
