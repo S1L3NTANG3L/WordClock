@@ -1,7 +1,7 @@
 # Word Clock for Raspberry Pi Pico W
 
-This project provides the code for a word clock implementation using a Raspberry Pi Pico W. The clock displays the current time in words by lighting up corresponding LEDs. It supports time synchronization using NTP (Network Time Protocol) and fallback to an RTC module (DS1302 or DS3231) for timekeeping. Have included the gerber file if you want to use a custom PCB and a schematic of how the pin connections should look.
-Link to the English 3D Files: https://www.printables.com/model/77997-word-clock
+This project provides the code for a word clock implementation using a Raspberry Pi Pico W. The clock displays the current time in words by lighting up corresponding LEDs. It supports time synchronization using NTP (Network Time Protocol) and fallback to an RTC module (DS1302 or DS3231) for timekeeping. Have included the gerber file if you want to use a custom PCB and a schematic of how the pin connections should look.<br>
+Link to the English 3D Files: https://www.printables.com/model/77997-word-clock<br>
 Link to the Afrikaans 3d Files: https://www.printables.com/model/1125495-afrikaans-word-clock
 
 ## Features
